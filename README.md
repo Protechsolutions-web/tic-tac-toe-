@@ -7,7 +7,7 @@ This project is beginner-friendly and demonstrates core concepts of **DOM manipu
 
 ## 🚀 Live Demo
 
-👉 Add your GitHub Pages link here: `https://your-username.github.io/tic-tac-toe/`
+👉 Add your GitHub Pages link here: `https://github.com/Umangi-webdev?tab=repositories`
 
 ---
 
@@ -54,8 +54,7 @@ Tic-Tac-Toe/
 Clone this repository and run locally:
 
 ```bash
-git clone https://github.com/your-username/tic-tac-toe.git
-cd tic-tac-toe
+https://github.com/Umangi-webdev?tab=repositories
 ```
 
 Then open `index.html` in your browser.
@@ -87,7 +86,7 @@ This project is open-source and available under the **MIT License**.
 ## 👨‍💻 Author
 
 Patel Umangi
-GitHub: `https://github.com/your-username`
+GitHub: `https://github.com/Umangi-webdev?tab=repositories`
 
 ---
 
